@@ -2,7 +2,7 @@
 
 Checks a list of URLs for the returned status and writes them in a logfile for later analysis.
 
-See [bastianoso.de](http://www.bastianoso.de) for full documentation (in german, though).
+See [bastianoso.de](http://www.bastianoso.de/technologien/http-statuscodes-vieler-urls-ueberpruefen.html) for full documentation (in german, though).
 
 ## Installation
 
